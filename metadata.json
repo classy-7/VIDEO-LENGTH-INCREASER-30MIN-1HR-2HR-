@@ -1,0 +1,6 @@
+{
+  "name": "VIDEO-LENGTH INCREASER",
+  "description": "Turn short videos into 30-minute, 1-hour, or 2-hour videos instantly using seamless looping and exact duration precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
